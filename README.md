@@ -6,9 +6,9 @@ Dieses Projekt ist eine Konsolenanwendung zur Verwaltung von Motorradreservierun
 
 ## Installation
 
-git clone 
+git clone https://github.com/PatrickAlx/motorrad-reservierung-cpp.git
 
-cd 
+cd motorrad-reservierung-cpp
 
 #### Kompilieren mit 
 
