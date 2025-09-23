@@ -30,3 +30,4 @@ Das Programm läuft im Terminal. Nach dem Ausführen erscheint ein Menü, durch 
 
 - Das Programm läuft im Terminal/Kommandozeile
 - Alle Mietdaten werden in einer .txt Datei gespeichert und beim Programmstart geladen
+- Die Daten müssen exakt so eingegeben werden wie im Menü gefordert
